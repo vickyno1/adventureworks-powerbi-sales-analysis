@@ -68,6 +68,7 @@ The project focuses on converting raw business data into meaningful insights thr
 ## Project Objective
 To demonstrate how Power BI can be used to analyze business performance, identify sales trends, evaluate product profitability, and communicate insights through interactive dashboards.
 
+## Power BI dashboard preview links
 ## Dashboard Preview
 
 [View AdventureWorks Power BI Dashboard (PDF)](AdventureWorks_Sales_Dashboard.pdf)
